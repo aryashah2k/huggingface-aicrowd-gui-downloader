@@ -4,4 +4,7 @@
 
 |HuggingFace|CrowdAI|
 |-----------|-------|
-|![hf]()|![aic]()|
+|![hf](https://github.com/aryashah2k/huggingface-aicrowd-gui-downloader/blob/main/assets/hf.png)|![aic](https://github.com/aryashah2k/huggingface-aicrowd-gui-downloader/blob/main/assets/aic.png)|
+
+
+# Steps To Install
